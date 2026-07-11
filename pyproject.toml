@@ -51,4 +51,5 @@ dependencies = [
     "groq>=0.33.0",
     "xgboost>=3.1.1",
     "dotenv>=0.9.9",
+    "langsmith>=0.4.41",
 ]
